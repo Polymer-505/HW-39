@@ -1,1 +1,42 @@
+.nav-link {
+  color: black;
 
+  &:hover {
+    color: #fa4a0c;
+  }
+}
+
+.banner-1 {
+  background-image: url(../../images/baner1.jpg);
+  padding: 80px 0 162px 0;
+  background-size: contain;
+  background-position: bottom;
+  background-repeat: no-repeat;
+}
+
+.texd {
+  width: 35%;
+}
+
+.button {
+  color: white;
+  background-color: #fa4a0c;
+
+  &:hover {
+    background-color: #c54415;
+  }
+}
+
+.instruction {
+  padding-bottom: 190px;
+}
+
+.banner-2 {
+  background-image: url(../../images/baner2.jpg);
+  padding: 130px 0;
+  background-size: contain;
+  background-position: bottom;
+  background-repeat: no-repeat;
+
+  margin-bottom: 70px;
+}
