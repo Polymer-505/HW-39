@@ -7,7 +7,7 @@
 }
 
 .banner-1 {
-  background-image: url(./images/baner1.jpg);
+  background-image: url(../images/baner1.jpg);
   padding: 80px 0 162px 0;
   background-size: contain;
   background-position: bottom;
@@ -32,7 +32,7 @@
 }
 
 .banner-2 {
-  background-image: url(./images/baner2.jpg);
+  background-image: url(../images/baner2.jpg);
   padding: 130px 0;
   background-size: contain;
   background-position: bottom;
